@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 meu nome é emilly scarfone
+=======
+meu nome é emilly
+
+meu codigo bla
+
+>>>>>>> b219936fb944cfa322b72575fa17091b22d70e39
